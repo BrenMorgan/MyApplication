@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "28912958220",
+    "firebase_url": "https://maclean-36a02.firebaseio.com",
+    "project_id": "maclean-36a02",
+    "storage_bucket": "maclean-36a02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28912958220:android:398d6bfb88cb6a4a",
+        "android_client_info": {
+          "package_name": "com.example.haxor.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "28912958220-hjru9pscj9v4lpdh4bv2jtr1qt1srne3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.haxor.myapplication",
+            "certificate_hash": "7c540b7a917d352b849aaccc8343ad3b473f2696"
+          }
+        },
+        {
+          "client_id": "28912958220-epidp5a1fjnqvcusnd7ps19iiafgtnbr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCrthrOjmiSYSc0XCb1XSu-komiqfm_xo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "28912958220-epidp5a1fjnqvcusnd7ps19iiafgtnbr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
